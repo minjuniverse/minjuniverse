@@ -1,11 +1,11 @@
 ## Yang Minjune 👋
 
 ### 👨‍💻 About Me
-안녕하세요! 저는 **양민준**이라고합니다. 주로 **웹 개발**과 **모바일 앱 개발**을 관심이 많으며, 삶에 불편을 해결하는 프로젝트를 만들고 있습니다.<br>
-항상 새로운 도전을 추구하며, 켜뮤니케이션를 중요시하는 개발자입니다. 😊
+Hello! My name is **Minjun Yang**. I am primarily interested in **mobile app** development, focusing on creating projects that solve everyday inconveniences.
+I always seek new challenges and value communication as a developer. 😊
 
 - 💻 **Tech Enthusiast** | **Problem Solver**
-- 🌱 Currently learning **React** & **Vue**
+- 🌱  Currently developing apps using **React Native**
 - 📫 How to reach me: [Email](mailto:yhs1535@naver.com)
 
 <br><br>
