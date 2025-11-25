@@ -40,12 +40,12 @@ I always seek new challenges and value communication as a developer. 😊
 ﻿
 
 <div style="display: flex; justify-content: space-between;">
-    <!-- <a href="https://github.com/minjuniverse/minjuniverse">
+     <a href="https://github.com/minjuniverse/minjuniverse">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjuniverse&langs_count=6&layout=compact&theme=white" alt="Top Languages" style="height: 180px;"/>     
-    </a> -->
-    <a href="https://github.com/minjuniverse">
+    </a> 
+    <!-- <a href="https://github.com/minjuniverse">
       <img src="https://github-readme-stats.vercel.app/api?username=minjuniverse" alt="Anurag's GitHub stats" style="height: 180px;"/>
-    </a>
+    </a> -->
 </div>
 
 
